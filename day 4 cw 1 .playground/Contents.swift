@@ -9,7 +9,7 @@ var currentYear = 2022
 
 print("Hello my name is \(name) and my age is \(age) ")
 
-if age >= 14 || age <= 18
+if age >= 14 && age <= 18
 {
     print ("نعم يمكنك المشاركة في الكويت تبرمج ")
 }
